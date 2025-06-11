@@ -1,3 +1,3 @@
 # Gravador
 
-Pequeno projeto criado para Gravar telas de forma anonima.
+Pequeno projeto python criado para Gravar telas de forma anonima.
